@@ -2,7 +2,7 @@
   "lockfileVersion": 1,
   "workspaces": {
     "": {
-      "name": "my-expo-app",
+      "name": "swapdat",
       "dependencies": {
         "expo": "^53.0.17",
         "expo-status-bar": "~2.2.3",
