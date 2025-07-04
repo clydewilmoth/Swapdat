@@ -12,7 +12,9 @@
       "tsconfigPaths": true
     },
 
-    "plugins": [],
+    "scheme": "swapdat",
+
+    "plugins": ["expo-router"],
 
     "orientation": "portrait",
     "icon": "./assets/icon.png",
