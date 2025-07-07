@@ -31,7 +31,7 @@
   - Profile picture
 - Two discovery modes are available:
   - **Standard Search**: Search for items by keyword, filtered by location and radius.
-  - **Explore Mode**: Browse a random feed of available items, which can also be filtered by location and radius. Scroll continuously to discover new listings dynamically.
+  - **Explore Mode**: Browse a random feed of available items, which can also be filtered by location and radius. Users can scroll through the displayed items and dynamically discover new ones.
 
 #### Anonymous Trade Offers
 
@@ -115,7 +115,7 @@
   - Profilbild
 - Es gibt zwei Entdeckungsmodi:
   - **Standardsuche**: Suche gezielt nach Artikeln über Schlagworte mit Filterung nach Standort und Umkreis.
-  - **Entdecken-Modus**: Ein kontinuierlicher Feed zeigt zufällige Artikel an. Auch hier kann nach Standort und Umkreis gefiltert werden. Nutzer können durch die angezeigten Angebote scrollen und neue Artikel dynamisch entdecken.
+  - **Entdecken-Modus**: Ein kontinuierlicher Feed zeigt zufällige Artikel an. Auch hier kann nach Standort und Umkreis gefiltert werden. Nutzer können durch die angezeigten Artikel scrollen und neue Artikel dynamisch entdecken.
 
 #### Anonyme Tauschangebote
 
